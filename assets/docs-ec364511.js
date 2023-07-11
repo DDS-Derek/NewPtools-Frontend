@@ -1,0 +1,1 @@
+import{d as s,r,H as t,I as o,J as a,N as c}from"./vue-95e91526.js";import"./lodash-00189e46.js";const n=["src"],i=s({__name:"docs",setup(l){const e=r("http://ptools.fun");return(p,_)=>(t(),o("div",null,[a("iframe",{src:c(e),class:"w-100% h-80vh"},null,8,n)]))}});export{i as default};

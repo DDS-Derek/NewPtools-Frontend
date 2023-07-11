@@ -1,0 +1,1 @@
+import{b as r}from"./index-4e101a5c.js";import"./vue-95e91526.js";import"./lodash-00189e46.js";import"./naiveUI-7723b9a5.js";import"./ionicons5-12752ee5.js";const t={};function e(o,c){return" homepage "}const s=r(t,[["render",e]]);export{s as default};
