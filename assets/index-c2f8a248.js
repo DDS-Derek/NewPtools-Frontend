@@ -1,1 +1,0 @@
-import{b as r}from"./index-f8eea4c2.js";import{H as e,I as o}from"./vue-95e91526.js";import"./lodash-00189e46.js";import"./naiveUI-7723b9a5.js";import"./ionicons5-12752ee5.js";const t={},s={src:"/supervisor",class:"w-100% h-80vh"};function c(n,i){return e(),o("iframe",s)}const d=r(t,[["render",c]]);export{d as default};
