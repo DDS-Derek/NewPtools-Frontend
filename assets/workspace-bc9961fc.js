@@ -1,1 +1,0 @@
-import{b as n}from"./index-b058b0c9.js";import{I as r,R as t}from"./vue-891544a6.js";import{S as c}from"./naiveUI-1b6e103f.js";import"./lodash-bf6380e1.js";import"./ionicons5-46c5ca5d.js";const e={};function _(p,s){const o=c;return r(),t(o)}const l=n(e,[["render",_]]);export{l as default};
